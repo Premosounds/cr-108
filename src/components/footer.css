@@ -1,0 +1,13 @@
+.footer-cr {
+    position: absolute;
+    bottom: 80px;
+    text-align: center;
+}
+
+.footer-name {
+    position: absolute;
+    bottom: 0;
+    font-weight: bold;
+    color: rebeccapurple;
+    text-align: center;
+}
